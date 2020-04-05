@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-https://blog.hichroma.com/graphql-react-tutorial-part-1-6-d0691af25858(graphQL React tutorial)
+[https://blog.hichroma.com/graphql-react-tutorial-part-1-6-d0691af25858]graphQL React tutorial)
 
 ## Available Scripts
 
